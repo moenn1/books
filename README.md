@@ -1,2 +1,1 @@
-# books
-Useful programming books
+# Programming books 
